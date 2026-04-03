@@ -208,7 +208,7 @@ No automated build scripts are included in this repository. Use the Arduino tool
 ## Documentation Assets
 
 - Project report: `AI Group 10 - Project Report.pdf`
-- Presentation: `Autunomous Chess Board.pptx`
+- Presentation: `Autunomous Chess Board.pptx` (filename in repository; title intent: "Autonomous Chess Board")
 
 These likely contain additional mechanical/electrical background and design rationale.
 
